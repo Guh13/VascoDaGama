@@ -1,0 +1,69 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.5.0
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/jogador1.png
+    - assets/jogador2.png
+    - assets/jogador3.png
+    - assets/jogador4.png
+    - assets/jogador5.png
+    - assets/jogador6.png
+    - assets/jogador7.png
+    - assets/jogador8.png
+    - assets/jogador9.png
+    - assets/jogador10.png
+    - assets/jogador11.png
+    - assets/jogador12.png
+    - assets/jogador13.png
+    - assets/jogador14.png
+    - assets/jogador15.png
+    - assets/jogador16.png
+    - assets/jogador17.png
+    - assets/jogador18.png
+    - assets/jogador19.png
+    - assets/jogador20.png
+    - assets/jogador21.png
+    - assets/jogador22.png
+    - assets/jogador23.png
+    - assets/jogador24.png
+    - assets/jogador25.png
+    - assets/jogador26.png
+    - assets/jogador27.png
+    - assets/jogador28.png
+    - assets/jogador29.png
+    - assets/jogador30.png
+    - assets/jogador31.png
+    - assets/jogador32.png
+    - assets/jogador33.png
+    - assets/jogador34.png
+    - assets/jogador35.png
+    - assets/jogador36.png
+    - assets/jogador37.png
+    - assets/jogador38.png
+    - assets/jogador39.png
+    - assets/jogador40.png
+    - assets/jogador41.png
+    - assets/tecnico.png
+    - assets/logo_vasco.png
+    - assets/estadio_sao_januario.png
